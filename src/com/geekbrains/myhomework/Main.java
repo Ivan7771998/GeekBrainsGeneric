@@ -3,6 +3,7 @@ package com.geekbrains.myhomework;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        TaskFirstAndSecond t12 = new TaskFirstAndSecond();
+        TaskThird t3 = new TaskThird();
     }
 }
